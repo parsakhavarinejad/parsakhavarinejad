@@ -17,7 +17,7 @@ I'm Parsa Khavarinejad, an AI developer who loves to learn new things and explor
 - Data Science and Analytics
 - Optimization, simulation, and decision analysis
 
--  You can find my resume here [Resume](https://www.linkedin.com/in/parsa-khavarinejad/](https://drive.google.com/file/d/18_pQHhp7zVmLC-OZmtDFhzwRAm4Uw29z/view?usp=drive_link)
+-  You can find my resume here [Resume](https://drive.google.com/file/d/18_pQHhp7zVmLC-OZmtDFhzwRAm4Uw29z/view?usp=drive_link)
 
 
 ## 📫 How to reach me
