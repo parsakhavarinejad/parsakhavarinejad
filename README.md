@@ -6,16 +6,18 @@ I'm Parsa Khavarinejad, an AI developer who loves to learn new things and explor
 
 ## 🎓 Education
 
-- BSc in Mathematics from University of Tehran
+- BSc in Mathematics from the University of Tehran
 - MSc in Operations Research from Tarbiat Modares University (ongoing)
 
 ## 💻 Skills
 
-- Python, SQL, docker, github, matlab, latex
+- Python, SQL, docker, GitHub, Matlab, latex
 - TensorFlow, PyTorch, Scikit-learn
 - Machine learning, deep learning
 - Data Science and Analytics
-- Optimization, simulation, decision analysis
+- Optimization, simulation, and decision analysis
+
+-  You can find my resume here [Resume]
 
 
 ## 📫 How to reach me
@@ -30,3 +32,5 @@ I like to draw cartoons and comics. Here's one of my sketches:
 
 [generative_image]{"query": "a sketch of a cartoon character by Parsa Khavarinejad", "type":"IMAGE", "actionTag":"generative_image"}
 ```
+
+[resume]: https://drive.google.com/file/d/18_pQHhp7zVmLC-OZmtDFhzwRAm4Uw29z/view?usp=drive_link
