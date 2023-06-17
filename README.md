@@ -17,7 +17,7 @@ I'm Parsa Khavarinejad, an AI developer who loves to learn new things and explor
 - Data Science and Analytics
 - Optimization, simulation, and decision analysis
 
--  You can find my resume here [Resume]
+-  You can find my resume here [Resume](https://www.linkedin.com/in/parsa-khavarinejad/](https://drive.google.com/file/d/18_pQHhp7zVmLC-OZmtDFhzwRAm4Uw29z/view?usp=drive_link)
 
 
 ## 📫 How to reach me
@@ -33,4 +33,3 @@ I like to draw cartoons and comics. Here's one of my sketches:
 [generative_image]{"query": "a sketch of a cartoon character by Parsa Khavarinejad", "type":"IMAGE", "actionTag":"generative_image"}
 ```
 
-[resume]: https://drive.google.com/file/d/18_pQHhp7zVmLC-OZmtDFhzwRAm4Uw29z/view?usp=drive_link
