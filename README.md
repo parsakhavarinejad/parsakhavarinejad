@@ -29,4 +29,4 @@
 
 <p>Apart from coding, I also enjoy expressing myself creatively by drawing cartoons and comics. Here's one of my favorite sketches:</p>
 
-<p><img src="[generative_image]{'query': 'a sketch of a cartoon character by Parsa Khavarinejad', 'type':'IMAGE', 'actionTag':'generative_image'}" alt="A sketch of a cartoon character by Parsa Khavarinejad" style="border-radius:50%; border: 5px solid #f2f2f2;"></p>
+[generative_image]{"query": "a sketch of a cartoon character by Parsa Khavarinejad", "type":"IMAGE", "actionTag":"generative_image"}
