@@ -1,35 +1,32 @@
-# Introduction
+<h1 style="color:#3366cc;">Hey there! 👋</h1>
 
-Hey there! 👋 My name is Parsa Khavarinejad and I'm an AI developer with a passion for exploring new domains and learning new things. My background in mathematics and operations research has equipped me with the skills to create impactful solutions.
+<p>I'm Parsa Khavarinejad, an AI developer with a zest for exploring new domains and learning something new every day. As a mathematics and operations research graduate, I love applying my expertise to create solutions that make a difference.</p>
 
-## Education
+<h2 style="color:#3366cc;">🎓 Education</h2>
 
-- BSc in Mathematics from the University of Tehran
-- MSc in Operations Research from Tarbiat Modares University (currently pursuing)
+<ul>
+  <li>🎓 BSc in Mathematics from the prestigious University of Tehran.</li>
+  <li>🎓 Currently pursuing my MSc in Operations Research at Tarbiat Modares University.</li>
+</ul>
 
-## Skills
+<h2 style="color:#3366cc;">💻 Skills</h2>
 
-### Programming Languages and Tools:
-Python, SQL, Docker, GitHub, Matlab, LaTeX
+<p>- Programming Languages and Tools: Python, SQL, Docker, Github, Matlab, LaTeX.</p>
+<p>- Machine Learning Frameworks: TensorFlow, PyTorch, Scikit-learn.</p>
+<p>- Areas of expertise: Machine learning, deep learning, data science and analytics, optimization, simulation, and decision analysis.</p>
 
-### Machine Learning Frameworks:
-TensorFlow, PyTorch, Scikit-learn
+<p>Check out my <a href="https://drive.google.com/file/d/18_pQHhp7zVmLC-OZmtDFhzwRAm4Uw29z/view?usp=drive_link" style="color:#ff9900;">resume</a> if you're interested!</p>
 
-### Areas of expertise:
-Machine learning, deep learning, data science and analytics, optimization, simulation, and decision analysis
+<h2 style="color:#3366cc;">📫 How to reach me</h2>
 
-If you're interested, you can find my resume [here](https://drive.google.com/file/d/18_pQHhp7zVmLC-OZmtDFhzwRAm4Uw29z/view?usp=drive_link).
+<ul>
+  <li>Email me at <a href="mailto:parsa.khavarinejad@gmail.com" style="color:#ff9900;">parsa.khavarinejad@gmail.com</a>.</li>
+  <li>Connect with me on <a href="https://www.linkedin.com/in/parsa-khavarinejad/" style="color:#ff9900;">LinkedIn</a> to stay in touch.</li>
+  <li>Follow me on Instagram <a href="https://instagram.com/parsa_khavarinejad" style="color:#ff9900;">@parsa_khavarinejad</a> to see what I'm up to.</li>
+</ul>
 
-## Contact Information
+<h2 style="color:#3366cc;">🎨 Hobbies</h2>
 
-If you'd like to get in touch with me, you can reach me at:
+<p>Apart from coding, I also enjoy expressing myself creatively by drawing cartoons and comics. Here's one of my favorite sketches:</p>
 
-- Email: parsa.khavarinejad@gmail.com
-- LinkedIn: https://www.linkedin.com/in/parsa-khavarinejad/
-- Instagram: https://instagram.com/parsa_khavarinejad
-
-## Hobbies
-
-Apart from my work, I enjoy drawing cartoons and comics. Here's one of my sketches!
-
-[generative_image]{"query": "a sketch of a cartoon character by Parsa Khavarinejad", "type":"IMAGE", "actionTag":"generative_image"}
+<p><img src="[generative_image]{'query': 'a sketch of a cartoon character by Parsa Khavarinejad', 'type':'IMAGE', 'actionTag':'generative_image'}" alt="A sketch of a cartoon character by Parsa Khavarinejad" style="border-radius:50%; border: 5px solid #f2f2f2;"></p>
