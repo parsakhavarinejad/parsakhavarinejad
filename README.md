@@ -5,7 +5,7 @@
 <h2 style="color:#3366cc;">🎓 Education</h2>
 
 <ul>
-  <li>🎓 BSc in Mathematics from the prestigious University of Tehran.</li>
+  <li>🎓 BSc in Mathematics from the University of Tehran.</li>
   <li>🎓 Currently pursuing my MSc in Operations Research at Tarbiat Modares University.</li>
 </ul>
 
