@@ -9,24 +9,18 @@
   <li>🎓 Currently pursuing my MSc in Operations Research at Tarbiat Modares University.</li>
 </ul>
 
-<h2 style="color:#3366cc;">💻 Skills</h2>
-
-<p>- Programming Languages and Tools: Python, SQL, Docker, Github, Matlab, LaTeX.</p>
-<p>- Machine Learning Frameworks: TensorFlow, PyTorch, Scikit-learn.</p>
-<p>- Areas of expertise: Machine learning, deep learning, data science and analytics, optimization, simulation, and decision analysis.</p>
+<h2 style="color:#3366cc;">💻 Resume</h2>
 
 <p>Check out my <a href="https://drive.google.com/file/d/18_pQHhp7zVmLC-OZmtDFhzwRAm4Uw29z/view?usp=drive_link" style="color:#ff9900;">resume</a> if you're interested!</p>
 
+<h2 style="color:#3366cc;">🛠 Languages and Tools</h2>
+
+<p>
+<!--<img src="https://img.icons8.com/color/48/000000/python--v2.png"m0kht4r/>-->
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,latex,postgres,docker,discord,git,github,linux,mysql,matlab,vscode"/>
+</p>
+
 <h2 style="color:#3366cc;">📫 How to reach me</h2>
 
-<ul>
-  <li>Email me at <a href="mailto:parsa.khavarinejad@gmail.com" style="color:#ff9900;">parsa.khavarinejad@gmail.com</a>.</li>
-  <li>Connect with me on <a href="https://www.linkedin.com/in/parsa-khavarinejad/" style="color:#ff9900;">LinkedIn</a> to stay in touch.</li>
-  <li>Follow me on Instagram <a href="https://instagram.com/parsa_khavarinejad" style="color:#ff9900;">@parsa_khavarinejad</a> to see what I'm up to.</li>
-</ul>
-
-<h2 style="color:#3366cc;">🎨 Hobbies</h2>
-
-<p>Apart from coding, I also enjoy expressing myself creatively by drawing cartoons and comics. Here's one of my favorite sketches:</p>
-
-[generative_image]{"query": "a sketch of a cartoon character by Parsa Khavarinejad", "type":"IMAGE", "actionTag":"generative_image"}
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/parsa-khavarinejad/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](parsa.khavarinejad@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://instagram.com/parsa_khavarinejad)][![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)(parsa_khavarinejad)]
