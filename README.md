@@ -17,7 +17,7 @@
 
 <p>
 <!--<img src="https://img.icons8.com/color/48/000000/python--v2.png"m0kht4r/>-->
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,latex,postgres,docker,discord,git,github,linux,mysql,matlab,vscode"/>
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,latex,postgres,docker,git,github,linux,mysql,matlab,vscode"/>
 </p>
 
 <h2 style="color:#3366cc;">📫 How to reach me</h2>
