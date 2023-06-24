@@ -1,4 +1,18 @@
-<h1 style="color:#3366cc;">Hey there! 👋</h1>
+<!-- number of visitors -->
+![](https://komarev.com/ghpvc/?username=hamiGH&label=Visitors+Count&color=red&style=flat-square)
+<!-- <img alt="choubari" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="150"> -->
+
+
+
+### Hi there 👋
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+</p>
+
+<!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
 
 <p>I'm Parsa Khavarinejad, an AI developer with a zest for exploring new domains and learning something new every day. As a mathematics and operations research graduate, I love applying my expertise to create solutions that make a difference.</p>
 
