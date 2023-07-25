@@ -25,7 +25,7 @@
 
 <h2 style="color:#3366cc;">💻 Resume</h2>
 
-<p>Check out my <a href="https://drive.google.com/file/d/1HIZL9-Iwuj1ErBcYx9jaX5Lmfv2gLIMy/view?usp=sharing" style="color:#ff9900;">resume</a> if you're interested!</p>
+<p>Check out my <a href="https://drive.google.com/file/d/1agxVNj9YeVH9m6ErexaACT3SZgn0C2G9/view?usp=sharing" style="color:#ff9900;">resume</a> if you're interested!</p>
 
 <h2 style="color:#3366cc;">🛠 Languages and Tools</h2>
 
