@@ -23,10 +23,6 @@
   <li>🎓 Currently pursuing my MSc in Operations Research at Tarbiat Modares University.</li>
 </ul>
 
-<h2 style="color:#3366cc;">💻 Resume</h2>
-
-<p>Check out my <a href="https://drive.google.com/drive/folders/1rdUlb8fu2QZbsxTypQIYTEqbWJySoFCV?usp=sharing" style="color:#ff9900;">resume</a> if you're interested!</p>
-
 <h2 style="color:#3366cc;">🛠 Languages and Tools</h2>
 
 <p>
