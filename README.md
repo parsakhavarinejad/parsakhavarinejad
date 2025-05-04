@@ -1,35 +1,47 @@
-<!-- number of visitors -->
-![](https://komarev.com/ghpvc/?username=hamiGH&label=Visitors+Count&color=red&style=flat-square)
-<!-- <img alt="choubari" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="150"> -->
-
-
-
-### Hi there 👋
+<!-- Visitor Counter -->
 <p align="left">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+  <img src="https://komarev.com/ghpvc/?username=hamiGH&label=Visitors&color=red&style=flat-square" alt="Visitor Badge" />
 </p>
 
-<!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-
-<p>I'm Parsa Khavarinejad, an AI developer with a zest for exploring new domains and learning something new every day. As a mathematics and operations research graduate, I love applying my expertise to create solutions that make a difference.</p>
-
-<h2 style="color:#3366cc;">🎓 Education</h2>
-
-<ul>
-  <li>🎓 BSc in Mathematics from the University of Tehran.</li>
-  <li>🎓 Currently pursuing my MSc in Operations Research at Tarbiat Modares University.</li>
-</ul>
-
-<h2 style="color:#3366cc;">🛠 Languages and Tools</h2>
-
-<p>
-<!--<img src="https://img.icons8.com/color/48/000000/python--v2.png"m0kht4r/>-->
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,latex,postgres,docker,git,github,linux,mysql,matlab,vscode"/>
+<!-- Welcome Animation -->
+<h1 align="center">Hi there 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=380&height=30&color=FF5733&vCenter=true" alt="Typing SVG" />
 </p>
 
-<h2 style="color:#3366cc;">📫 How to reach me</h2>
+<!-- About Me Section -->
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50" /> About Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/parsa-khavarinejad/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](parsa.khavarinejad@gmail.com)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/parsa_khavarinejad)
+Hi, I'm **Parsa Khavarinejad**, a Junior Data Scientist passionate about uncovering insights through data.  
+With a strong foundation in **Mathematics** and **Operations Research**, I enjoy solving real-world problems using analytical models, machine learning, and statistical techniques.
+
+---
+
+### 🎓 Education
+
+- 🎓 **BSc in Mathematics** – University of Tehran  
+- 🎓 **MSc in Operations Research** – Tarbiat Modares University
+
+---
+
+### 🛠 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,latex,postgres,docker,git,github,linux,mysql,matlab,vscode,jenkins,mlflow,airflow,aws" alt="Skills" />
+</p>
+
+---
+
+### 📫 How to Reach Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/parsa-khavarinejad/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:parsa.khavarinejad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/parsa_khavarinejad" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
