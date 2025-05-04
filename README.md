@@ -27,7 +27,7 @@ With a strong foundation in **Mathematics** and **Operations Research**, I enjoy
 ### 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,latex,postgres,docker,git,github,linux,mysql,matlab,vscode,jenkins,mlflow,airflow,aws" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,latex,postgres,docker,git,github,linux,mysql,matlab,vscode,jenkins,mlflow,airflow,aws,powerbi" alt="Skills" />
 </p>
 
 ---
