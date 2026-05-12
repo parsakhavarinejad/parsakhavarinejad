@@ -37,26 +37,25 @@ Hi, I'm **Parsa Khavarinejad** — a Data Scientist and Machine Learning Enginee
 
 **Machine Learning & Deep Learning**
 <p>
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn" alt="ML Frameworks" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,matlab,anaconda," alt="ML Frameworks" />
+
 </p>
 
 **MLOps & Infrastructure**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,aws,grafana,git,github,linux" alt="DevOps" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" width="48" height="48" alt="MLflow" />
-  <img src="https://cdn.worldvectorlogo.com/logos/airflow-1.svg" width="48" height="48" alt="Airflow" />
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,aws,grafana,git,github,linux,ubuntu" alt="DevOps" />
 </p>
 
 **Data & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb," alt="Databases" />
+  <img src="https://de.wikipedia.org/wiki/Datei:Microsoft_SQL_Server_Logo.svg" width="48" height="48" alt="MLflow" />
 </p>
 
 **Visualization & BI**
 <p>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="48" height="48" alt="Power BI" />
-  <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/220px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="48" height="48" alt="Excel" />
+  <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2025%E2%80%93present).svg" width="48" height="48" alt="Excel" />
 </p>
 
 ---
