@@ -1,7 +1,8 @@
 
 <!-- Visitor Counter -->
+<!-- Visitor Counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=parsakhavarinejad&label=Profile%20Views&color=0891b2&style=flat-square" />
+  <img src="https://visitcount.itsvg.in/api?id=parsakhavarinejad&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </p>
 
 <!-- Header -->
@@ -83,8 +84,7 @@ TA: Calculus, Differential Equations, Game Theory
 
 <p>
   <a href="https://www.linkedin.com/in/parsakhavarinejad/">
-
-    <img src="https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:paras.khavarinejad@gmail.com">
@@ -109,15 +109,13 @@ TA: Calculus, Differential Equations, Game Theory
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parsakhavarinejad&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parsakhavarinejad&theme=tokyonight&hide_border=true" height="160"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=parsakhavarinejad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parsakhavarinejad&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsakhavarinejad&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsakhavarinejad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
-
 ---
 
 <p align="center">
