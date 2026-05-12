@@ -1,47 +1,114 @@
 <!-- Visitor Counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hamiGH&label=Visitors&color=red&style=flat-square" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=parsakhavarinejad&label=Profile%20Views&color=0891b2&style=flat-square" alt="Visitor Badge" />
 </p>
 
 <!-- Welcome Animation -->
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=380&height=30&color=FF5733&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+%7C+ML+Engineer;Building+the+Bridge+Between+Math+%26+AI;Welcome+to+My+Research+%26+Code+Hub&center=true&width=500&height=45&color=0891b2&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
 </p>
 
 <!-- About Me Section -->
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50" /> About Me
 
-Hi, I'm **Parsa Khavarinejad**, a Junior Data Scientist passionate about uncovering insights through data.  
-With a strong foundation in **Mathematics** and **Operations Research**, I enjoy solving real-world problems using analytical models, machine learning, and statistical techniques.
+Hi, I'm **Parsa Khavarinejad** — a Data Scientist and Machine Learning Engineer with a passion for bridging cutting-edge AI research with real-world impact. My work sits at the intersection of **Applied Mathematics**, **Deep Learning**, and **Operations Research**, where I build scalable models for edge devices, medical imaging, and supply chain optimization.
+
+- 🔭 Currently working on: IMU signal processing & edge ML at **MATTR** (Vancouver), plus research on medical image super-resolution
+- 🌱 Deeply invested in: Generative models, MLOps pipelines, and reinforcement learning for decision systems
+- 🎯 I thrive in: Cross-functional teams where research meets production engineering
+- ✨ Research published/accepted in: *Nature Scientific Reports* (submitted), *ISBCT Conference*
 
 ---
 
 ### 🎓 Education
 
-- 🎓 **BSc in Mathematics** – University of Tehran  
-- 🎓 **MSc in Operations Research** – Tarbiat Modares University
+- 🎓 **MSc in Industrial Engineering — Operations Research**  
+  *Tarbiat Modares University* (2022–2025)  
+  *Thesis: Deep Learning for Echocardiography Super-Resolution | TA: Deep Learning & Data Mining*
+  
+- 🎓 **BSc in Applied Mathematics**  
+  *University of Tehran* (2017–2022)  
+  *Capstone: Hybrid Deep Learning for Stock Price Prediction | TA: Calculus, Differential Equations, Game Theory*
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,latex,postgres,docker,git,github,linux,mysql,matlab,vscode,jenkins,mlflow,airflow,aws,powerbi" alt="Skills" />
+**Machine Learning & Deep Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn" alt="ML Frameworks" />
+</p>
+
+**MLOps & Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,aws,grafana,git,github,linux" alt="DevOps" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" width="48" height="48" alt="MLflow" />
+  <img src="https://cdn.worldvectorlogo.com/logos/airflow-1.svg" width="48" height="48" alt="Airflow" />
+</p>
+
+**Data & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="Databases" />
+</p>
+
+**Visualization & BI**
+<p>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="48" height="48" alt="Power BI" />
+  <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/220px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="48" height="48" alt="Excel" />
 </p>
 
 ---
 
-### 📫 How to Reach Me
+### 📌 Highlighted Projects & Research
+
+| Area | Project | Key Technologies |
+|------|---------|------------------|
+| 🏥 **Medical AI** | HADESR-GAN: Lightweight GAN for Medical Image Super-Resolution (85% fewer params) | PyTorch, GANs, Attention |
+| 🚗 **Edge ML** | Real-time vehicle maneuver detection on K3Y device (IMU signal processing) | Python, Signal Processing, A/B Testing |
+| 📈 **Supply Chain** | Sales forecasting models & S&OP dashboards at AriaShahd Saedinia | Power BI, PostgreSQL, Pandas |
+| 🤖 **Reinforcement Learning** | Multi-agent RL for microgrid energy optimization (Accepted paper) | RL, Blockchain, MDP |
+| 💹 **FinTech** | Automated crypto trading bot with hybrid ML/RL strategies | RL, LSTM, Backtesting |
+| 🛒 **Information Retrieval** | Learning-to-Rank (L2R) system for e-commerce product relevance | XGBoost, LightGBM Ranker |
+
+---
+
+### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/parsa-khavarinejad/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/parsakhavarinejad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:parsa.khavarinejad@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:paras.khavarinejad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://instagram.com/parsa_khavarinejad" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
+  <a href="https://github.com/parsakhavarinejad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://parsakhavarinejad.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://kaggle.com/parsakh" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parsakhavarinejad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891b2&icon_color=0891b2" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parsakhavarinejad&theme=tokyonight&hide_border=true&background=0D1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="Streak Stats" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsakhavarinejad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891b2" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>"The best way to predict the future is to model it."</i> 🧠
 </p>
